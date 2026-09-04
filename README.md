@@ -23,8 +23,8 @@ frames. This simplification is documented as a limitation in the thesis.
 
 ## Repository structure
 
-- `notebooks/` — Colab notebooks for each model (setup, inference, evaluation)
-- `results/` — CSV result tables and plots (per-video and aggregated metrics)
+- `experiment1/ and experiment2/` — Colab notebooks for each model (setup, inference, evaluation)
+- `results_experiment1and2/` — CSV result tables and plots (per-video and aggregated metrics)
 
 ## Reproducing this work
 
