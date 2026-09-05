@@ -1,0 +1,7 @@
+model,blur,occlusion_accuracy,outlier_magnitude,outlier_ratio_vs_gt,false_visible_rate,false_occluded_rate,visibility_bias
+CoTracker3,medium,80.375,6.605,1.032,0.111,0.245,-0.134
+CoTracker3,none,88.131,7.296,1.034,0.075,0.147,-0.072
+CoTracker3,strong,66.903,5.721,0.95,0.181,0.387,-0.205
+TapNext,medium,77.256,12.744,1.626,0.222,0.248,-0.026
+TapNext,none,91.34,9.179,1.224,0.159,0.08,0.079
+TapNext,strong,62.05,18.426,2.843,0.349,0.349,0.001

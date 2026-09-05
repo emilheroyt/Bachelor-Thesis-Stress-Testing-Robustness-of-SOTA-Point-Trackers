@@ -1,0 +1,10 @@
+model,blur,average_jaccard,occlusion_accuracy,average_pts_within_thresh
+CoTracker3,medium,46.9,80.4,63.6
+CoTracker3,none,62.6,88.1,77.2
+CoTracker3,strong,26.0,66.9,41.6
+CoWTracker,medium,48.2,88.5,62.7
+CoWTracker,none,56.9,90.8,71.2
+CoWTracker,strong,34.0,84.7,46.9
+TapNext,medium,42.3,77.3,57.3
+TapNext,none,66.7,91.3,79.6
+TapNext,strong,19.2,62.1,30.8

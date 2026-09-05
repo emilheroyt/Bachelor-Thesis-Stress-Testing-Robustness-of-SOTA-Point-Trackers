@@ -1,0 +1,7 @@
+model,blur,occlusion_accuracy,outlier_magnitude,outlier_ratio_vs_gt,trajectory_length_ratio
+CoTracker3,medium,80.38,6.61,1.03,0.86
+CoTracker3,none,88.13,7.3,1.03,0.9
+CoTracker3,strong,66.9,5.72,0.95,0.84
+TapNext,medium,77.26,12.74,1.63,0.95
+TapNext,none,91.34,9.18,1.22,0.99
+TapNext,strong,62.05,18.43,2.84,1.1
