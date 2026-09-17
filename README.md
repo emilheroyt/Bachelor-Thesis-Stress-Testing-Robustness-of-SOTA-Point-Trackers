@@ -97,8 +97,7 @@ used in the thesis.
 
 The notebooks were developed and run on Google Colab.
 
-1. Open a notebook in Colab with a GPU runtime (T4 is sufficient for CoTracker3 and TAPNext;
-   CoWTracker was run on an A100).
+1. Open a notebook in Colab with a GPU runtime (An NVIDIA A100 GPU is recommended to run all 3 trackers).
 2. Run all cells. Each model notebook downloads its checkpoint and TAP-Vid-DAVIS automatically
    and writes a per-video CSV; the analysis notebooks read those CSVs and produce tables and figures.
 3. Inference is deterministic. A verification run of the CoTracker3 Experiment 2 notebook on
