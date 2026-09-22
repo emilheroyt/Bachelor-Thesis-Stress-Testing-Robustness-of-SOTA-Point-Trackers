@@ -94,13 +94,18 @@ position (no extreme jumps) but has the most over-confident visibility estimate 
 0.29 to 0.44).
 
 **Qualitative example.** All 25 points of `bmx-trees` under strong blur, side by side for the three
-models (GIF rendered from `updated_results_experiment1and2/tracking_video22_strong.mp4`):
+models (CoTracker3 left, TAPNext middle, CoWTracker right; source file
+`updated_results_experiment1and2/tracking_video22_strong.mp4`):
+
+<!-- VIDEO PLAYER: open this README in the GitHub web editor, drag tracking_video22_strong.mp4
+     onto the line below and wait for the upload to finish. GitHub replaces the drop with a
+     https://github.com/user-attachments/assets/... URL, which it renders as an inline player.
+     Then delete this comment. -->
 
 ![Tracking of all points of bmx-trees under strong blur for CoTracker3, TAPNext and CoWTracker](updated_results_experiment1and2/tracking_video22_strong.gif)
 
-The full-resolution video is
-[`tracking_video22_strong.mp4`](updated_results_experiment1and2/tracking_video22_strong.mp4)
-(GitHub shows a download link; the GIF above plays inline).
+*Animated preview (8 fps). The original video is
+[`tracking_video22_strong.mp4`](updated_results_experiment1and2/tracking_video22_strong.mp4).*
 
 ## Repository structure
 
